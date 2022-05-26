@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @selahabdu
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Selhadin
+- 🌱 I’m currently studying ISy at Haramaya University, Ethiopia ...
 - 📫 zselah34@gmail.com
 
 <!---
