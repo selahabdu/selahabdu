@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Selhadin
-- 🌱 I’m currently studying ISy at Haramaya University, Ethiopia ...
+- 🌱 I’m currently studying Information Systems at Haramaya University, Ethiopia ...
 - 📫 zselah34@gmail.com
 
 <!---
