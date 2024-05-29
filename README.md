@@ -10,6 +10,9 @@ I'm a passionate software developer with a focus on mobile app development using
 ## Current Focus
 🚀 I'm currently honing my skills in mobile app development with Flutter, crafting engaging and dynamic applications.
 
+## My Portfolio
+Check out my latest projects and work on my [portfolio website](http://selhadin-abdu.netlify.app/).
+
 ## Tech Stack
 - Flutter
 - MERN Stack (previously)
