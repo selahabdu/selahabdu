@@ -19,8 +19,10 @@ Check out my latest projects and work on my [portfolio website](http://selhadin-
 - Android App Development with Java (past experience)
 
 ## Contact Me
-📧 Email: [zselah34@gmail.com](mailto:zselah34@gmail.com)  
-📱 Telegram: [t.me/selhadinabdu](https://t.me/selhadinabdu)
+📧 **Email:** [selhadinnabdu@gmail.com](mailto:selhadinnabdu@gmail.com) 
+💼 **LinkedIn:** https://www.linkedin.com/in/selhadin-abdu/
+📱 **WhatsApp:** @selhadinnabdu
+📱 **Telegram:** [t.me/selhadinabdu](https://t.me/selhadinabdu)
 
 ## Let's Connect!
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech and development. I'm always open to new opportunities and connections!
